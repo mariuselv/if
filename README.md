@@ -1,2 +1,2 @@
 # if
-Some interface collections
+Collection of some interfaces
